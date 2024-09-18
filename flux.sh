@@ -19,16 +19,16 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/ciri/comfyui-model-downloader.git",
-    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet",
-    "https://github.com/WASasquatch/was-node-suite-comfyui",
-    "https://github.com/LEv145/images-grid-comfy-plugin",
-    "https://github.com/WASasquatch/was-node-suite-comfyui",
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
-    "https://github.com/Fannovel16/comfyui_controlnet_aux",
-    "https://github.com/evanspearman/ComfyMath",
-    "https://github.com/kijai/ComfyUI-KJNodes",
-    "https://github.com/SLAPaper/ComfyUI-Image-Selector",
+    "https://github.com/ciri/comfyui-model-downloader.git"
+    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/LEv145/images-grid-comfy-plugin"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/evanspearman/ComfyMath"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/SLAPaper/ComfyUI-Image-Selector"
     "https://github.com/Fantaxico/ComfyUI-GCP-Storage"    
 )
 
@@ -36,8 +36,8 @@ CHECKPOINT_MODELS=(
 )
 
 CLIP_MODELS=(
-    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",
-    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors",
+    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors"
+    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors"
 )
 
 UNET_MODELS=(
@@ -47,9 +47,8 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://huggingface.co/comfyanonymous/flux_RealismLora_converted_comfyui/resolve/main/flux_realism_lora.safetensors",
-    "https://huggingface.co/XLabs-AI/flux-lora-collection/blob/main/anime_lora.safetensors",
-    
+    "https://huggingface.co/comfyanonymous/flux_RealismLora_converted_comfyui/resolve/main/flux_realism_lora.safetensors"
+    "https://huggingface.co/XLabs-AI/flux-lora-collection/blob/main/anime_lora.safetensors"    
 )
 
 ESRGAN_MODELS=(
@@ -59,6 +58,7 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
+    "https://huggingface.co/XLabs-AI/flux-controlnet-canny-v3/raw/main/flux-canny-controlnet-v3.safetensors"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
