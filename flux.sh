@@ -20,6 +20,16 @@ PIP_PACKAGES=(
 
 NODES=(
     "https://github.com/ciri/comfyui-model-downloader.git",
+    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet",
+    "https://github.com/WASasquatch/was-node-suite-comfyui",
+    "https://github.com/LEv145/images-grid-comfy-plugin",
+    "https://github.com/WASasquatch/was-node-suite-comfyui",
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+    "https://github.com/Fannovel16/comfyui_controlnet_aux",
+    "https://github.com/evanspearman/ComfyMath",
+    "https://github.com/kijai/ComfyUI-KJNodes",
+    "https://github.com/SLAPaper/ComfyUI-Image-Selector",
+    "https://github.com/Fantaxico/ComfyUI-GCP-Storage"    
 )
 
 CHECKPOINT_MODELS=(
