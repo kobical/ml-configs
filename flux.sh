@@ -59,7 +59,8 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
-    "https://huggingface.co/XLabs-AI/flux-controlnet-canny-v3/raw/main/flux-canny-controlnet-v3.safetensors"
+    "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-canny-controlnet-v3.safetensors"
+    "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-depth-controlnet-v3.safetensors"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
