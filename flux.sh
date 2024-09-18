@@ -29,7 +29,8 @@ NODES=(
     "https://github.com/evanspearman/ComfyMath"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/SLAPaper/ComfyUI-Image-Selector"
-    "https://github.com/Fantaxico/ComfyUI-GCP-Storage"    
+    "https://github.com/Fantaxico/ComfyUI-GCP-Storage"  
+    "https://github.com/XLabs-AI/x-flux-comfyui"
 )
 
 CHECKPOINT_MODELS=(
