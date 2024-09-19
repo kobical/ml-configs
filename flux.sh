@@ -103,7 +103,7 @@ function provisioning_start() {
         "${WORKSPACE}/storage/stable_diffusion/models/controlnet" \
         "${CONTROLNET_MODELS[@]}"
     provisioning_get_models \
-        "${WORKSPACE}/storage/stable_diffusion/models/xlabs/controlnets" \
+        "${WORKSPACE}/ComfyUI/models/xlabs/controlnets" \
         "${FLUX_CONTROLNET_MODELS[@]}"
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/vae" \
