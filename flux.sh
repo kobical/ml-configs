@@ -63,6 +63,8 @@ CONTROLNET_MODELS=(
 
 FLUX_CONTROLNET_MODELS=(
     "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-canny-controlnet-v3.safetensors"
+    "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-canny-controlnet_v2.safetensors"
+    "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-canny-controlnet.safetensors"
     "https://huggingface.co/XLabs-AI/flux-controlnet-collections/blob/main/flux-depth-controlnet-v3.safetensors"
 )
 
